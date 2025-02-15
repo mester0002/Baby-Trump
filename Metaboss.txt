@@ -1,0 +1,22 @@
+{
+  "name": "Baby Trump",
+  "symbol": "BTP",
+  "description": "Baby Trump (BTP) is the boldest new meme coin on Solana, ready to shake up the market with humor, hype, and high-speed transactions! In the world of crypto, memes aren’t just jokes—they’re money-makers. And BTP is here to prove it.
+
+A joke to convince investors:
+An investor asked Baby Trump, "Why should I buy BTP?"
+Baby Trump replied, "Because even before I say a word, my value skyrockets... it’s in my DNA!"
+
+Why Buy BTP?
+
+A Meme Coin with Attitude – A mix of humor, politics, and smart investing.
+
+Faster than a Morning Tweet – Built on Solana, meaning lightning-fast and low-cost transactions.
+
+A Strong Community – BTP isn’t just a coin; it’s a movement!
+
+Moon Potential – Many meme coins started as jokes and ended up making millionaires.",
+  "image": "https://raw.githubusercontent.com/mester0002/Baby-Trump/refs/heads/main/resized_image%20(2)%20(1).png",
+  "extensions": {
+   }
+}
